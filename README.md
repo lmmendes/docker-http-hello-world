@@ -1,6 +1,8 @@
 # http-hello-world
 
-Image to test docker deployments. Runs nginx with a 'Hello World' page listening in port 80.
+Docker image to test docker deployments.
+
+Runs nginx with a 'Hello World' page listening in port 80.
 
 All logging messages are sent to stdout.
 
