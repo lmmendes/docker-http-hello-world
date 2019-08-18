@@ -1,6 +1,6 @@
 # http-hello-world
 
-Minimal docker image to test docker deployments. [View in (dockerhub)[https://hub.docker.com/r/lmmendes/http-hello-world]]
+Minimal docker image to test docker deployments. [View in [Docker Hub](https://hub.docker.com/r/lmmendes/http-hello-world).]
 
 Runs nginx on top of Alpine with a 'Hello World' page listening in port 80.
 
