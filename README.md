@@ -14,7 +14,7 @@ All logging messages are sent to stdout.
 
 Going to http://localhost:8080 [use the defined port] should see the following:
 
-![Alpine running nginx](images/nginx.png)
+![Alpine running nginx](https://github.com/lmmendes/docker-http-hello-world/raw/master/images/nginx.png)
 
 ## Bug reports and other issues
 
